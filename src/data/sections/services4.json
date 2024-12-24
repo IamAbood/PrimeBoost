@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Digital Marketing",
+    "icon": "pe-7s-gleam",
+    "content": "Maximize your online reach and accelerate your business growth with us."
+  },
+  {
+    "id": 2,
+    "title": "Web Development & Design",
+    "icon": "pe-7s-phone",
+    "content": "We can create you a powerful web presence for your business"
+  },
+  {
+    "id": 3,
+    "title": "Video Editing",
+    "icon": "pe-7s-video",
+    "content": "Transform your raw footage into captivating visual stories with our professional video editing"
+  },
+  {
+    "id": 4,
+    "title": "SEO & Google Ads",
+    "icon": "pe-7s-display1",
+    "content": "Boost your website's visibility and drive targeted traffic with our expert SEO services."
+  }
+]

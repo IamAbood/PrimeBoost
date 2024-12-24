@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Unique",
+      "second": "Brand Stories"
+    },
+    "content": "Establish a distinctive online presence that sets you apart from the competition with our bespoke solutions, designed to showcase your brand's uniqueness and leave a lasting impact on your audience.",
+    "image": "/img/slid/Slider1.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Professional",
+      "second": "Designs"
+    },
+    "content": "Elevate your brand's image and leave a lasting impression with our exceptional professional design services, crafted to deliver stunning visuals that resonate with your target audience.",
+    "image": "/img/slid/Slider2.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Viral",
+      "second": "Frenzy"
+    },
+    "content": "Unleash an unstoppable wave of viral frenzy and propel your brand to new heights with our powerful marketing strategies and captivating content.",
+    "image": "/img/slid/Slider3.jpg"
+  }
+]
